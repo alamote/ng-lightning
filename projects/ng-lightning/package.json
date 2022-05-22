@@ -1,10 +1,10 @@
 {
   "name": "ng-lightning",
-  "version": "8.0.0",
+  "version": "8.0.1",
   "description": "Native Angular components and directives for Lightning Design System",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ng-lightning/ng-lightning.git"
+    "url": "git+https://github.com/alamote/ng-lightning.git"
   },
   "bugs": {
     "url": "https://github.com/ng-lightning/ng-lightning/issues"
@@ -16,17 +16,17 @@
     "lightning design system",
     "salesforce"
   ],
-  "author": "Tasos Bekos <tbekos@gmail.com>",
+  "author": "Sergey Lyskov <sergunie@gmail.com>",
   "license": "MIT",
   "dependencies": {
     "date-fns": "^2.6.0",
     "tslib": "^2.0.0"
   },
   "peerDependencies": {
-    "@angular/cdk": "^9.0.0",
-    "@angular/common": "^9.0.0",
-    "@angular/core": "^9.0.0",
-    "@angular/forms": "^9.0.0"
+    "@angular/cdk": "~13.1.0",
+    "@angular/common": "~13.1.0",
+    "@angular/core": "~13.1.0",
+    "@angular/forms": "~13.1.0"
   },
   "publishConfig": {
     "registry": "https://registry.npmjs.org/"
