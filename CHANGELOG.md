@@ -1,3 +1,20 @@
+## [8.0.4](https://github.com/alamote/ng-lightning/compare/v8.0.0...v8.0.4) (2022-10-27)
+
+
+### Bug Fixes
+
+* **combobox:** lookups stop selection of option when no matches closes [#575](https://github.com/alamote/ng-lightning/issues/575) ([#576](https://github.com/alamote/ng-lightning/issues/576)) ([85f6b31](https://github.com/alamote/ng-lightning/commit/85f6b319c227a4d5fa2d1ba5ccce663bf8f4eade))
+* **combobox:** stop updating input if there is no selection ([#558](https://github.com/alamote/ng-lightning/issues/558)) ([43242c5](https://github.com/alamote/ng-lightning/commit/43242c56fe5892ec188bbbc2ae5fc429597f94d3))
+* **combobox:** update selection value when options change ([fe25ae4](https://github.com/alamote/ng-lightning/commit/fe25ae4e11d5e2495b304d3e2a9b66f59584cefb))
+
+
+### Features
+
+* **lib:** update to angular 12 ([c59e237](https://github.com/alamote/ng-lightning/commit/c59e2374cc69e2e85f27b6049fc74e0c02a6e39a))
+* **lib:** update to angular 12 ([988fff0](https://github.com/alamote/ng-lightning/commit/988fff0b5f586508633acba86e87d7337690d2bb))
+
+
+
 # [8.0.0](https://github.com/ng-lightning/ng-lightning/compare/v7.0.2...v8.0.0) (2021-06-27)
 
 
